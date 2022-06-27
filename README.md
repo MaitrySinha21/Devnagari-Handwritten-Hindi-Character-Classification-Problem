@@ -1,7 +1,7 @@
 ## Devnagari Handwritten Hindi Character Classification Problem
---
+
 ## (Nvidia Hackathon primary round project 
---
+
 ### To solve this problem we initially made some artificial datasets and then trained with both LeNet_5 and Inception_Net Architectures. 
 
 
